@@ -180,3 +180,27 @@ fainaya-sp/
 ## 📄 Lisensi
 
 Platform ini dirilis di bawah lisensi **MIT / Apache 2.0 Open Source License**. Bebas dimodifikasi dan didistribusikan untuk kebutuhan toko ritel.
+
+---
+<img width="1412" height="908" alt="image" src="https://github.com/user-attachments/assets/fbfe40cf-c06e-4cc4-aab1-9fcd12d5c08d" />
+
+---
+<img width="1897" height="900" alt="image" src="https://github.com/user-attachments/assets/d111320f-90e5-4da4-bbf7-96aa610ffb0b" />
+
+---
+<img width="1892" height="897" alt="image" src="https://github.com/user-attachments/assets/af537473-6189-4981-885a-0fc56a9a8ec1" />
+
+---
+<img width="1897" height="896" alt="image" src="https://github.com/user-attachments/assets/12dd4421-2724-427c-a668-558de5b1c870" />
+
+---
+<img width="1901" height="902" alt="image" src="https://github.com/user-attachments/assets/1ab3b982-9a1a-4200-9078-c1c7148632dc" />
+
+---
+<img width="1887" height="898" alt="image" src="https://github.com/user-attachments/assets/4fe605b8-39c3-4c06-aa20-37bc116d4bce" />
+
+---
+<img width="1892" height="900" alt="image" src="https://github.com/user-attachments/assets/f8909647-287e-42cf-9f53-2f8a3032ee75" />
+
+
+
